@@ -1,0 +1,31 @@
+@import '../node_modules/bootstrap/scss/bootstrap';
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fz {
+	&-11 {
+		font-size: 11px;
+	}
+	&-15 {
+		font-size: 15px;
+	}
+	&-20 {
+		font-size: 20px;
+	}
+    &-25 {
+        font-size: 25px;
+    }
+}
+
+.ml-620 {
+    margin-left: 620;
+}
+
+.btn{
+	&-facf86{
+		background-color: #facf86;
+	}
+}

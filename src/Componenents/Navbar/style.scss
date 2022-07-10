@@ -1,0 +1,31 @@
+    .mr-415 {
+        margin-right: 415px;
+    }
+    
+    .text {
+        &-111 {
+            color: #111111;
+            &:hover {
+                color: #111111;
+            }
+        }
+        &-666 {
+            color: #666666;
+            &:hover {
+                color: #666666;
+            }
+        }
+    }
+    
+    .btn-login {
+        width: 76px;
+        height: 34px;
+        background-color: #f29e33;
+        display: inline-flex;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+        border-bottom-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+        align-items: center;
+        justify-content: center;
+    }
