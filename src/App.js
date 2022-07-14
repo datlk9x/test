@@ -11,7 +11,7 @@ import Login from './Pages/Login'
 import ForgetPass from './Pages/ForgetPass'
 import Register from './Pages/Register'
 import Test from './Pages/Test'
-
+// test comment
 const App = () => {
   return (
 	<div>
